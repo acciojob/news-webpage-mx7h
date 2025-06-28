@@ -10,12 +10,12 @@ body{
 	
 }
 .header{
-	
+	text-align : center;
 	padding : 25px 10px;
-	background-color :  #011e29;
+	background-color : #011e29;
 	color : white;
 }
-main{
+.main{
 	width : 95%;
 	display : flex;
 	align-items : start;
@@ -31,7 +31,7 @@ main{
 	
 }
 
-.lastest-news-section{
+.latest-news-section{
 	width : 25%;
 	padding : 20px 25px;
 	background-color : #FEFFFE;
